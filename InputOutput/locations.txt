@@ -1,0 +1,6 @@
+0, You are In front of screen
+1, You are Standing at end of road
+2, You are at the top of a hill
+3, You are inside a building
+4, You are in a valley besides a stream
+5, You are in the forest
